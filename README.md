@@ -1,16 +1,51 @@
-## Hi there 👋
+# Мое портфолио
 
-<!--
-**dubinka39-hub/dubinka39-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет! Я — начинающий разработчик, увлечённый созданием различных проектов. Ниже вы можете ознакомиться с моими навыками и работами.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Навыки и технологии
+
+🛠️ **Языки программирования и платформы:**
+
+- HTML
+- C#
+- Kotlin
+- Python (базовый уровень)
+- Unity
+
+🌐 **Работа с GitHub:**
+
+- Активное использование системы контроля версий
+- Создание и поддержка репозиториев
+
+---
+
+## Мои проекты
+
+🔹 **[Игра](https://github.com/dubinka39-hub/My-game)**  
+
+
+🔹 **[Банковская система](https://github.com/dubinka39-hub/BankingSystem)**  
+
+
+🔹 **[Машинный сервис](https://github.com/dubinka39-hub/car-Service)**  
+
+
+---
+
+## Контакты
+
+📧 Электронная почта: dubinka39@gmail.com
+💬 Telegram: @Rsherrr
+
+---
+
+## Обо мне
+
+Я — целеустремлённый и быстрый в обучении разработчик, всегда ищу новые вызовы и возможность развиваться.  
+Открыт к сотрудничеству и новым проектам!
+
+---
+
+*Спасибо, что заглянули!*
