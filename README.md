@@ -23,13 +23,13 @@
 
 ## Мои проекты
 
-🔹 **[Игра](https://github.com/dubinka39-hub/My-game)**  
+🔹 **[2D Игра](https://github.com/dubinka39-hub/My-game)**  
 
 
 🔹 **[Банковская система](https://github.com/dubinka39-hub/BankingSystem)**  
 
 
-🔹 **[Машинный сервис](https://github.com/dubinka39-hub/car-Service)**  
+🔹 **[Змейка](https://github.com/dubinka39-hub/Game-snake)**  
 
 
 ---
